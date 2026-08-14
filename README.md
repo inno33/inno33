@@ -1,4 +1,4 @@
-# Welcome to inno33 👋
+# # Hi there, I'm Muhammad Kamolov 👋
 
 Innovation-driven team/initiative focused on **Full-Stack Development**, building high-performance web applications, scalable backend systems, and modern digital products.
 
