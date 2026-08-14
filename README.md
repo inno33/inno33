@@ -6,7 +6,7 @@ Innovation-driven team/initiative focused on **Full-Stack Development**, buildin
 
 ### 🚀 About Us
 
-* 🔭 **Currently working on:** Next-generation web applications & digital platforms
+* 🔭 **Currently working on:** Full-Stack Engineer at [Contobox](https://contobox.com)
 * 💡 **Core focus:** Go (Golang), JavaScript/TypeScript, React, and Database Architecture
 * 👥 **Mission:** Building scalable products, sharing knowledge, and fostering software engineering best practices
 * 📬 **How to reach us:** [kamolov3020@gmail.com](mailto:kamolov3020@gmail.com)
